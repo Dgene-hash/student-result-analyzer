@@ -34,7 +34,7 @@ A beginner-friendly Python project that collects student names and marks, valida
 4. Run the Python file:
 
 ```bash
-python main.py
+student_result_analyzer.py
 ```
 
 ## Language
